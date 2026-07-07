@@ -1,16 +1,14 @@
-## Hi there 👋
+## Welcome to my GitHub!
 
-<!--
-**FernandaFOS/FernandaFOS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Engenheira Agrônoma e Mestre em Ecossistemas Agrícolas e Naturais.
 
-Here are some ideas to get you started:
+Desenvolvo soluções de inteligência geoespacial utilizando Sistemas de Informação Geográfica (SIG), Sensoriamento Remoto, Aprendizado de Máquina e Python para apoiar a tomada de decisão nos setores de Agricultura, Energia e Meio Ambiente.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌎 Inteligência Geoespacial
+🛰️ Sensoriamento Remoto
+🐍 Python
+🗺️ Sistemas de Informação Geográfica (ArcGIS Pro & QGIS)
+📊 Aprendizado de Máquina
+📊 Ciência de Dados
+🚀 Pesquisa, Desenvolvimento e Inovação (PD&I)
+👥 Liderança de Projetos e Equipes
