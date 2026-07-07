@@ -10,7 +10,6 @@ I develop geospatial solutions using GIS, Remote Sensing, Machine Learning and P
 - 🛰️ Remote Sensing
 - 📊 Machine Learning
 - 🐍 Python
-- 🗺️ ArcGIS Pro & QGIS
 - 📊 Data Science
 - 🌱 Precision Agriculture
 - 💧 Irrigation
