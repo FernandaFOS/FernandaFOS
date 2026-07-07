@@ -1,14 +1,26 @@
 ## Welcome to my GitHub!
 
-Engenheira Agrônoma e Mestre em Ecossistemas Agrícolas e Naturais.
+I develop geospatial solutions using GIS, Remote Sensing, Machine Learning and Python to support decision-making in Agriculture, Energy and Environmental projects.
 
-Desenvolvo soluções de inteligência geoespacial utilizando Sistemas de Informação Geográfica (SIG), Sensoriamento Remoto, Aprendizado de Máquina e Python para apoiar a tomada de decisão nos setores de Agricultura, Energia e Meio Ambiente.
+---
 
-🌎 Inteligência Geoespacial
-🛰️ Sensoriamento Remoto
-🐍 Python
-🗺️ Sistemas de Informação Geográfica (ArcGIS Pro & QGIS)
-📊 Aprendizado de Máquina
-📊 Ciência de Dados
-🚀 Pesquisa, Desenvolvimento e Inovação (PD&I)
-👥 Liderança de Projetos e Equipes
+## 🚀 Areas of Expertise
+
+- 🌎 Geospatial Intelligence
+- 🛰️ Remote Sensing
+- 📊 Machine Learning
+- 🐍 Python
+- 🗺️ ArcGIS Pro & QGIS
+- 📊 Data Science
+- 🌱 Precision Agriculture
+- 💧 Irrigation
+- 🚀 Research & Development
+- 📋 Project Management
+
+---
+
+## 🛠 Technologies
+
+Python • GeoPandas • Rasterio • GDAL • ArcGIS Pro • QGIS • SQL • PostgreSQL • Power BI • Git
+
+--
