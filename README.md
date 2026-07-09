@@ -20,6 +20,6 @@ I develop geospatial solutions using GIS, Remote Sensing, Machine Learning and P
 
 ## 🛠 Technologies
 
-Python • GeoPandas • Rasterio • GDAL • ArcGIS Pro • QGIS • SQL • PostgreSQL • Power BI • Git
+Python • GeoPandas • PySpark • NumPy • Rasterio • Scikit-learn • GDAL •  ArcPy • PyQGIS • TensorFlow • SQL • PostgreSQL • Power BI • Git
 
 --
